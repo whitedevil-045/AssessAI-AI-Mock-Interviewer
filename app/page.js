@@ -4,8 +4,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div>
-      <h2>Subscribe to TubeGuruji!</h2>
-      <Button>Subscribe</Button>
+      <h2>Go to the URL by typing /dashboard</h2>
     </div>
   );
 }
